@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "397983933757",
+    "firebase_url": "https://foodrecipes-88be8.firebaseio.com",
+    "project_id": "foodrecipes-88be8",
+    "storage_bucket": "foodrecipes-88be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397983933757:android:6eeba2206179fcb7425154",
+        "android_client_info": {
+          "package_name": "com.example.foodrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397983933757-c06im9mho3v5ba865ep0fle8226hue6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodrecipes",
+            "certificate_hash": "e13044ba2b29f4c0bf5675d0c900c30b1b3fbf9b"
+          }
+        },
+        {
+          "client_id": "397983933757-l5uhcl5m071iqa3h36caet40eopedt19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodrecipes",
+            "certificate_hash": "46fe3be97edc111b48f5d665bac006e7c8230584"
+          }
+        },
+        {
+          "client_id": "397983933757-58fk1sfsr0abe019f8c7j3ak1rdqauc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGH2XVzQEVg_BOm5F2n_RfU_PcjyfOwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397983933757-58fk1sfsr0abe019f8c7j3ak1rdqauc0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397983933757-o1dpcdnom2bhnnalk67pctjp4rkpvfba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodrecipes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
